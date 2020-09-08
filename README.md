@@ -1,1 +1,4 @@
-# KMUAutoDrivingLab
+# 국민대학교 자율주행기술 연구실
+
+##START_DATE : 2020.09.09
+
